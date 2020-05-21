@@ -1,6 +1,6 @@
 module github.com/innovia/vault-secrets-webhook
 
-go 1.12
+go 1.13
 
 require (
 	github.com/go-test/deep v1.0.1
